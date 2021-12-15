@@ -14,6 +14,8 @@ The purpose of this project is to use unsupervised machine learning to analyze c
 
 ![image info](./Resources/3d_scatter.png)
 
+![image info](./Resources/classified_crypto.png)
+
 ![image info](./Resources/scaled_scatter.png)
 
 ## Summary
